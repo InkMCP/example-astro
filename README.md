@@ -1,25 +1,27 @@
-# Astro
+# Example Astro Site
 
-Learn how to deploy an Astro site with Ink MCP using a simple prompt.
+A simple Astro example site, ready to deploy.
+
+## Setup
+
+```bash
+npm install
+npm run dev
+```
+
+## Deploy with Ink
+
+Connect the [Ink MCP server](https://docs.ml.ink/quick-start) to your AI agent and prompt:
+
+> Deploy this Astro site with Ink.
 
 ## Tutorial
 
-Full step-by-step tutorial: [docs.ml.ink/examples/frontend/astro](https://docs.ml.ink/examples/frontend/astro)
-
-### Prerequisites
-
-- An [Ink](https://ml.ink) account
-- Ink MCP connected to your AI agent ([setup guide](https://docs.ml.ink/quick-start))
-
-### Quick Deploy
-
-1. Connect Ink MCP to your agent
-2. Prompt: "Create an Astro blog with a few sample posts using Markdown content. Include a homepage listing all posts."
-3. Prompt: "Deploy with Ink"
+Full tutorial: [docs.ml.ink/examples/frontend/astro](https://docs.ml.ink/examples/frontend/astro)
 
 ## About Ink
 
-[Ink](https://ml.ink) is a deployment platform built for AI agents. Connect the Ink MCP server to any AI coding agent and deploy applications, manage domains, databases, and infrastructure — all through natural language prompts.
+[Ink](https://ml.ink) is a deployment platform built for AI agents.
 
 - **Website**: [ml.ink](https://ml.ink)
 - **Documentation**: [docs.ml.ink](https://docs.ml.ink)
